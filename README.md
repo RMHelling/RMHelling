@@ -1,5 +1,5 @@
 Hi, I’m @RMHelling
-Technical Physician working at Stichting Epilepsie Instellingen Nederland (SEIN) - Clinical Neurophysiology Department
+Technical Physician working at Stichting Epilepsie Instellingen Nederland (SEIN) - Clinical Neurophysiology Department.
 
 I’m interested in ...
 - Cortical excitability and Evoked Potential Analysis {TMS/VEP/AEP}

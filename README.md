@@ -1,16 +1,14 @@
-Hi, I’m @RMHelling
-Technical Physician working at Stichting Epilepsie Instellingen Nederland (SEIN) - Clinical Neurophysiology Department.
+Technical Physician working at Stichting Epilepsie Instellingen Nederland (SEIN) - Department of Clinical Neurophysiology.
 
 I’m interested in ...
-- Cortical excitability and Evoked Potential Analysis {TMS/VEP/AEP}
-- Electric Source Imaging (ESI)
-- Transcranial Magnetic Stimulation (TMS)
+- Everything related to (analysis of the) EEG
+- Machine learning and its implementation into clinical workflows
 
 I’m currently working on ...
-- Various Source Models for ESI
 - qEEG approaches
-- TMS seizure induction
-
+- Comprehensive Photic Stimulation protocols
+- Biomarker development
+  
 How to reach me ...
 - Researchgate
 - www.SEIN.nl 
